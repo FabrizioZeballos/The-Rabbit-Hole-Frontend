@@ -1,0 +1,21 @@
+.home-container {
+  text-align: center;
+}
+
+.title {
+  margin: 100px 0 40px 0;
+  font-size: 50px;
+}
+
+.home-container div {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
